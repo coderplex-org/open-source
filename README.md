@@ -1,6 +1,3 @@
-# open-source
-Repo for our Open Source initiative in Hyderabad
-
 # Our Goals : 
 1. Spreading awareness about Open Source
 2. Making it very easy for beginners to get into Open Source
