@@ -9,4 +9,4 @@ A team of developers from Hyderabad who are passionate about Open Source and wan
 4. Connecting Open Source contributors in the city
 
 # Our Programs and Initatives 
-- [Hacktoberfest Drive](https://github.com/coderplex/open-source/blob/master/hacktoberfest-drive.md)
+- [Hacktoberfest Drive](https://coderplex.github.io/open-source/hacktoberfest-drive)
