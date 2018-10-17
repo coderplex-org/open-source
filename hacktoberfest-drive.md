@@ -9,7 +9,6 @@ event hosted by DigitalOcean, GitHub and Twilio.
 Through this initative, if you are interested in participating in Hacktoberfest, you will receive guidance and support from mentors in 
 the ecosystem, who activly contribute to a specific open source projects. 
 
-```
 If you would like to be a mentor for this program, i.e if you actively contribute to a Open Source project, or if you actively build and manage a Open Source project created by you, then we encourage you to join our initiative as a mentor for said project. 
 
 Our expectations from you would be : 
@@ -18,7 +17,6 @@ Our expectations from you would be :
 questions and provide support to anyone intersted in contributing to the project you are mentoring 
 - If possible, being present at the offline event we will host this month, where contributors and mentors can come together to interact, 
 ask questions, and help each other make their pull requests to the respective projects they are contributing
-```
 
 #### Tutorials 
 Through this initative, we'll be creating online resources in text and video format, that will help beginners learn the basics of 
