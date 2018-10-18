@@ -7,9 +7,9 @@ event hosted by DigitalOcean, GitHub and Twilio.
 ### Details 
 #### Mentorship
 Through this initative, if you are interested in participating in Hacktoberfest, you will receive guidance and support from mentors in 
-the ecosystem, who activly contribute to a specific open source projects. 
+the ecosystem, who activly contribute to a specific open source projects. You can find the [Mentors List here](https://coderplex.github.io/open-source/mentors-list).
 
-If you would like to be a mentor for this program, i.e if you actively contribute to a Open Source project, or if you actively build and manage a Open Source project created by you, then we encourage you to join our initiative as a mentor for said project. 
+If you would like to be a mentor for this program, i.e if you actively contribute to a Open Source project, or if you actively build and manage a Open Source project created by you, then we encourage you to [join our initiative as a mentor](https://docs.google.com/forms/d/e/1FAIpQLScakIkciRTeG5S8Nd5WvKFQTeuFo3SbO5dBjNYL6sTiFSh_IA/viewform) for said project. 
 
 Our expectations from you would be : 
 - Creating tutorials (blog or video) in which you guide people on how to contribute to said project
