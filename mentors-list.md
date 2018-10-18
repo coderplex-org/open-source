@@ -1,7 +1,6 @@
 # Mentors List
 
-This is the list of mentors from Hyderabad, who contribute to open-source projects and are willing to guide you to 
-those contribute to those projects. 
+This is the list of mentors from Hyderabad, who contribute to open-source projects and are willing to guide you to contribute to those projects. 
 
 | Mentor Name  | Project Name | Technolgoies | Begineer Friendly | Email | WhatsApp | [Coderplex Chatroom](https://chat.coderplex.org) 
 | ----- | ------- | ------------ | ------- | ------ | ----- | -------- |
