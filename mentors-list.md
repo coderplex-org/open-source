@@ -5,7 +5,7 @@ This is a list of mentors who contribute to or manage open-source projects and a
 | Mentor Name  | Project Name | Technolgoies | Begineer Friendly | Email | WhatsApp | [Coderplex Chatroom](https://chat.coderplex.org) 
 | ----- | ------- | ------------ | ------- | ------ | ----- | -------- |
 | Madhumitha Natarajan | [Jupyter Notebook](https://github.com/jupyter/notebook) and [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) | Python or JavaScript |Yes | galt4000@gmail.com | 9500653222 | Madhu94#3483 |
-| Rahul Arulkumaran | [Merkalysis](https://github.com/rahulkumaran/merkalysis) and [ResearchFLO](https://github.com/FreeFlowOrg/researchflo) | | Yes | rahulkumaran313@gmail.com |  | rahulkumaran#9892 |
-| Sreenivas Alapati | [Dav Foundation](https://github.com/davfoundation) and [Rust-lang-gist](https://github.com/cg-cnu/rust-lang-gist) | | Yes | |  | cgcnu |
+| Rahul Arulkumaran | [Merkalysis](https://github.com/rahulkumaran/merkalysis) and [ResearchFLO](https://github.com/FreeFlowOrg/researchflo) | Python, Django, Javascript and HTML | Yes | rahulkumaran313@gmail.com |  | rahulkumaran#9892 |
+| Sreenivas Alapati | [Dav Foundation](https://github.com/davfoundation) and [Rust-lang-gist](https://github.com/cg-cnu/rust-lang-gist) | Scala, Typescript | Yes | |  | cgcnu |
 
 
