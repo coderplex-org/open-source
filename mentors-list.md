@@ -7,5 +7,6 @@ This is a list of mentors who contribute to or manage open-source projects and a
 | Madhumitha Natarajan | [Jupyter Notebook](https://github.com/jupyter/notebook) and [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) | Python or JavaScript |Yes | galt4000@gmail.com | 9500653222 | Madhu94#3483 |
 | Rahul Arulkumaran | [Merkalysis](https://github.com/rahulkumaran/merkalysis) and [ResearchFLO](https://github.com/FreeFlowOrg/researchflo) | Python, Django, Javascript and HTML | Yes | rahulkumaran313@gmail.com |  | rahulkumaran#9892 |
 | Sreenivas Alapati | [Dav Foundation](https://github.com/davfoundation) and [Rust-lang-gist](https://github.com/cg-cnu/rust-lang-gist) | Scala, Typescript | Yes | |  | cgcnu |
+| Arjun Nemani | [coala](https://github.com/coala) | Python| Yes | nemaniarjun@gmail.com | - | nemaniarjun#8109 |
 
 
